@@ -1,3 +1,16 @@
+library(usethis)
+use_git_config(user.name = "ellieclark2424", user.email = "eloise.clark@students.mq.edu.au")
+
+
+
+
+usethis::create_from_github(
+  "https://github.com/ellieclark2424/MQ_Namoi_data.git",
+  destdir = "C:\Users\elois\OneDrive\Desktop\BPhil\NSCI7915\Stygo_data"
+)
+
+
+
 library(readr)
 F <- read_csv("COPY Copy of Final completed results- shing(WQ + Stygo).csv")
 F = as.data.frame(F)
