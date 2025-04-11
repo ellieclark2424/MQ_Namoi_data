@@ -1,0 +1,3 @@
+Investigating the influence of hydrochemistry on stygofauna diversity in groundwater ecosystems
+This project aims to investigate the influence of abiotic factors on the diversity of stygofauna in two Australian groundwater catchments: Namoi and Macquarie. The study analyses biotic (stygofauna abundance, richness, and diversity) and abiotic (groundwater level change, temperature, pH, electrical conductivity, dissolved oxygen, total nitrate, and dissolved organic carbon) factors associated with the health of the two Australian aquifers. It is expected that the two catchments will show different environmental conditions and stygofauna diversity. However, the difference is not expected to be significant. 
+https://osf.io/j9pdv/?view_only=
